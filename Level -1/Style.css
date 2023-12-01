@@ -1,0 +1,29 @@
+h1{
+    color: green;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+p{
+    color:darkcyan;
+    text-align : right;
+    
+}
+button{
+    color:brown;
+    background-color: aquamarine;
+}
+body{
+    background-color:#ffff00;
+}
+#h2{
+    font-weight: bold;
+}
+#h3{
+   font-weight: lighter; 
+}
+#h4
+{
+     font-weight: 900;
+}

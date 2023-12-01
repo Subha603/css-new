@@ -1,0 +1,28 @@
+div{
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+}
+
+#box1{
+background-image: url("./cat.jpg");
+background-size: cover;
+
+}
+#box2
+{
+    /* background-color: yellow; */
+    background-image: url(./cat.jpg);
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+}
+#box3
+{
+    /* background-color: brown; */
+    background-image: url(./cat.jpg);
+    background-size: auto;
+}
+#box4{
+    background-color: green ;
+}

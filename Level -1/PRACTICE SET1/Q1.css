@@ -1,0 +1,14 @@
+#box{
+    background-color: blue;
+   /* color: white; */
+} 
+/* .heading{
+    color:red;
+} */
+/*another way to write the previous line */
+h1,h2,h3{
+    color:blue;
+}
+button{
+    background-color: green;
+}

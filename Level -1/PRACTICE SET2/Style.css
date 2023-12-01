@@ -1,0 +1,14 @@
+.heading{
+    text-align: center;
+    text-transform: capitalize;
+   color: red;
+   font-family: 'Times New Roman';
+}
+
+#outer{
+   font-size: 100px; 
+   text-shadow: 2cm;
+}
+#Inner{
+    font-size: 50px;
+}
